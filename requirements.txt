@@ -1,0 +1,9 @@
+BeautifulSoup
+requests
+lxml
+selenium
+webdriver-manager
+pandas
+googleplay-scraper
+fastapi
+uvicorn
