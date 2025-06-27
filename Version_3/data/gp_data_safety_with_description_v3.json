@@ -1,0 +1,488 @@
+{
+    "Ask AI - Chat with AI Chatbot": {
+        "description": "Welcome to Ask AI \u2013 Discover Endless Possibilities Every Day!\r\n\r\nExperience conversations with an AI that understands you, adapts to your mood, and personalizes interactions, making each engagement unique.\r\n\r\nASK ANYTHING, ANYTIME:\r\nIgnite your curiosity and engage in fascinating conversations with historical figures, business gurus, or even your favorite celebrities. Built on the GPT-4o model, Ask AI is always ready to offer recommendations, inspiration, and information on any topic.\r\n\r\nIMAGE GENERATION AND EXPLORATION:\r\n\r\n- Be Your Own Artist: Use our AI generator to create images from text, visualizing everything from fantastic scenes to futuristic cities. Our AI turns your descriptions into stunning visuals \u2013 perfect for creating book covers, social media posts, and more.\r\n- Discover Your World Through Images: Snap a photo of anything around you (buildings, art, landscapes) and instantly gain insights with our image input technology. Use the text-to-image feature to convert visual information into readable text.\r\n\r\nENHANCED TEXT GENERATOR FOR EASY WRITING ASSISTANCE:\r\nOur AI-powered writing assistant helps you generate ideas, craft detailed outlines, and effortlessly compose complete articles or creative works. From professional emails to creative stories and songs, managing writing tasks has never been easier.\r\n\r\nFUN LANGUAGE LEARNING AND HOMEWORK HELPER:\r\n\r\n- Language Practice: Immerse yourself in new languages through interactive scenarios, like a samurai adventure in Japanese or managing a restaurant in Spanish. Ask AI, built on GPT-4o, makes learning fun and practical.\r\n- Academic Support: Whether it's a tough math problem or a complex science project, use Ask AI as your reliable homework helper.\r\n\r\nSMART SUMMARY ASSISTANT:\r\n\r\n- Quick Summaries: Get the essence of long videos or detailed documents in an interactive and engaging format. \r\n- Ask Questions: Upload documents or add links to articles or videos, ask your questions, and receive instant accurate answers with the help of Ask AI.\r\n\r\nEASY WEB SEARCH:\r\nNeed the latest information on technological innovations, fashion trends, or health tips? Ask AI Chatbot, scours the web to bring you the most relevant and up-to-date information, keeping you always in the know.\r\n\r\nPERSONALIZED RECOMMENDATIONS AND CREATIVE INSPIRATION:\r\nWhether you're searching for new books, planning your next trip, or seeking creative inspiration, Ask AI offers personalized suggestions and ideas based on your preferences and interests.\r\n\r\nEXPERIENCE THE MOST HUMAN INTERACTIONS:\r\nThe friendly, conversational tone of Ask AI, and its ability to adapt to your mood, makes every interaction feel like you're chatting with a friend. It\u2019s not just a chatbot; it\u2019s a new form of AI companionship that enriches your daily life.\r\n\r\nJoin us on this exciting journey. Download Ask AI now and start exploring a world full of possibilities with the power of AI Chatbot.\r\n\r\nPrivacy Policy: https://static.askaichat.app/privacy-en.html\r\nTerms of Use: https://static.askaichat.app/terms-conditions-en.html",
+        "llm_indicator_in_description": [
+            "AI-powered",
+            "GPT"
+        ],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Location": "Approximate location",
+                "App activity": "App interactions and Other user-generated content"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.codeway.chatapp",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    },
+    "Chatbot AI - Chat & Ask AI": {
+        "description": "Meet the Smartest AI Chatbot \u2013 Powered by Advanced AI with Deep Reasoning Ability!\r\n\r\nUnlock endless possibilities with the ultimate AI Chatbot for conversations, learning, and creativity. Whether you want to chat with AI, ask AI for insights, or explore new ideas, this app integrates cutting-edge AI models like DeepSeek V3, DeepSeek R1, GPT-4o, Gemini Pro & Claude API to deliver intelligent, deep reasoning, and advanced computing capabilities.\r\n\r\nKey Features:\r\n- AI Chatbot built on DeepSeek V3, DeepSeek R1, GPT-4o, Gemini Pro 1.5 & Claude API for fast computing, deep thinking, and insightful reasoning.\r\n- Seek AI Search: Find tailored information instantly with AI-powered deep computing and smart retrieval.\r\n- Ask AI Anything: From deep reasoning and critical thinking to general knowledge, get precise AI answers.\r\n- Voice Mode: Use speech-to-text and text-to-speech for hands-free AI assistant interaction.\r\n- AI Camera: Snap photos to seek answers, solve problems, or summarize content.\r\n- Image Generation: Create unique visuals from AI-generated prompts for inspiration or fun.\r\n- Deep Thinking Assistant: Access expert-level insights with AI-driven reasoning and computational logic.\r\n- Context-Aware Responses: Get smart, personalized answers with deep AI analysis.\r\n\r\nPractical Applications:\r\n- Simplify tasks with a powerful AI assistant capable of deep thinking and problem-solving.\r\n- Chat & ask with AI to brainstorm, analyze, and optimize productivity.\r\n- Solve homework, seek deeper insights, or enhance your logical reasoning with AI-powered explanations.\r\n\r\nWhy Choose This AI Chatbot?\r\nDeveloped on advanced AI models like DeepSeek, GPT-4o, Gemini 1.5 & Claude, this app delivers high-speed AI computing, deep logic, and precise AI-driven insights. Whether you need an AI Chatbot, an AI assistant, or simply want to ask AI anything, this app is your go-to AI-powered solution.\r\n\r\nDownload now and experience the smartest AI conversations today!\r\n\r\nDisclaimer:\r\n* This application is not officially associated with any third-party, application or company, and it does not purport to represent any such entities in any manner. The purpose of this application is solely to provide a mobile interface for interacting with an AI chatbot.\r\n\r\n* We wish to emphasize that no data utilized by this application is collected or saved by us.",
+        "llm_indicator_in_description": [
+            "AI-powered",
+            "Claude",
+            "GPT",
+            "Gemini"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "Personal info": "Email address and Phone number"
+            },
+            "No data collected": {},
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "newway.open.chatgpt.ai.chat.bot.free",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT",
+            "GPT"
+        ]
+    },
+    "ARTA: AI Art & Photo Generator": {
+        "description": "Want to create artwork without a hassle?\r\n\r\nMeet AI Arta\u2014your personal AI-powered art studio designed to turn your ideas into breathtaking works of art. Discover a world of limitless creativity and explore its boundless possibilities:\r\n\r\n\u25ba Turn words into art\r\nWant to see a BBQ party on Mars or a group of cats having a tea ceremony? Or maybe you're wondering what lies in the far corners of our universe? AI Arta can show you all that and even more! \r\n\r\nTrained using millions of images from the web, this powerful AI picture generator transforms your dreams into visual art in a matter of seconds. Simply write your input and upload a picture to start creating AI-powered art.\r\n\r\n\u25ba Explore art styles\r\nWith this AI picture generator, you can create art using various styles and effects. From AI manga filters and anime-style drawings to mind-blowing photorealism\u2014you can paint anything using artificial intelligence! Experiment with styles and see which one captures your idea best.\r\n\r\n\u25ba Create art from images\r\nIf you have an exact concept of what your painting should look like, you may add the image as a visual base for your prompt. Upload a photo or select a picture from our library, and the AI will transform it into an artistic masterpiece.\r\n\r\n\u25ba Generate avatars\r\nStep up your selfie game using the AI avatar maker! Upload your photos, and the mighty AI photo generator will create mind-blowing AI avatars. Choose from a variety of AI filters and become the main character of your favorite anime or manga or travel to other fictional universes.\r\n\r\n\u25ba Get inspired\r\nGet an extra boost of inspiration by browsing a gallery of amazing AI art made by people from all over the world. Explore the ideas of others and start creating AI art using the power of artificial intelligence!",
+        "llm_indicator_in_description": [
+            "AI-powered"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Device or other IDs": "Device or other IDs",
+                "Photos and videos": "Photos",
+                "Location": "Approximate location",
+                "Financial info": "Purchase history"
+            },
+            "Data collected": {
+                "App info and performance": "Diagnostics",
+                "App activity": "App interactions and In-app search history",
+                "Location": "Approximate location",
+                "Financial info": "Purchase history"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.generated.art.maker.image.picture.photo.generator.painting",
+        "llm_indicator_in_review_summary": []
+    },
+    "AI Video Generator - Clips AI": {
+        "description": "Introducing the future of digital storytelling: Our AI-powered app revolutionizes the way you bring your words to life by turning text into captivating 5-second videos. With the latest advancements in artificial intelligence, this app is designed to unleash your creativity, making it easier than ever to create engaging content, share ideas, and tell stories in a visually stunning format.\r\n\r\nFeatures:\r\n\r\n- Instant Video Creation: Simply type your text, and let our AI work its magic, transforming your words into a 4-second video masterpiece in seconds. Perfect for social media stories, ads, educational content, or just for fun.\r\n\r\n- AI-Driven Visuals: Powered by cutting-edge AI, our app intelligently selects visuals and animations that best represent your text, creating a unique and compelling video every time.\r\n\r\n- Easy Sharing: Share your creations directly from the app to social media platforms, messaging apps, or download them to your device for unlimited use.\r\n\r\n- No Design Skills Needed: You don\u2019t need to be a designer or video editor to create professional-looking videos. Our intuitive interface makes it easy for anyone to produce high-quality videos in just a few taps.\r\n\r\n- Regular Updates: We constantly update our app with new features, themes, and improvements, ensuring you always have access to the latest in AI video technology.\r\n\r\nHow It Works:\r\n\r\n1. Enter Your Text: Start with typing the text you want to transform into video.\r\n2. Generate: Hit the generate button and watch as our AI brings your words to life in video form.\r\n3. Share or Download: Directly share your video masterpiece with your audience or download it for future use.\r\n\r\nWhether you're looking to create dynamic ads, engaging social media content, educational materials, or just want to experiment with AI-generated visuals, our app provides an effortless and innovative solution. Say goodbye to the days of spending hours on video editing software. With our AI app, you have the power to transform text into video in the palm of your hand, making your stories, ideas, and messages visually irresistible.\r\n\r\nExperience the magic of AI and elevate your digital content with our revolutionary app. Download now and start creating videos that captivate, inspire, and engage.\r\n\r\nPrivacy Policy: https://univenn.com/app/agreement/policy\r\nTerms of Use: https://univenn.com/app/agreement/terms",
+        "llm_indicator_in_description": [
+            "AI-powered"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Location": "Approximate location",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "App activity": "App interactions",
+                "Financial info": "Purchase history",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "Data collected": {
+                "App activity": "Other user-generated content",
+                "Personal info": "User IDs"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.univenn.videogen",
+        "llm_indicator_in_review_summary": []
+    },
+    "Photify AI: AI Photo Generator": {
+        "description": "Unleash Your Creativity with Photify AI: The Ultimate AI Photo & Video Generator\r\n\r\nDiscover Photify AI, the revolutionary app that transforms your photos into incredible, AI-driven visuals. Whether you're looking to enhance your selfies, explore different styles, or dive into imaginative transformations, Photify AI gives you the power to create limitless possibilities from a single image.\r\nOver 100 million photos and counting! Photify is the leading destination for high-quality, fast, photo and video generation. Create captivating headshots, videos, explore new looks, and unlock endless creative possibilities!\r\n\r\n<b>Key Features:</b>\r\n- <b>Ultra Quality Photo & Video Generation</b> \u2013 Create stunning visuals with our advanced AI technology\r\n- <b>Ultra-Fast Processing</b> \u2013 Experience rapid generation, delivering results in seconds\r\n- <b>Custom Prompts for Boundless Creativity</b> \u2013 Personalize every detail and bring your unique ideas to life\r\n- <b>Extensive Style Library</b> \u2013 Choose from hundreds of exclusive and user-generated styles\r\n- <b>High-Resolution, Photorealistic Results</b> \u2013 Enjoy crisp, lifelike images that look truly professional\r\n\r\n<b>Use Photify to Create:</b>\r\n- <b>Professional Business Headshots</b> \u2013 Enhance your resume and LinkedIn profile with polished, impactful headshots for a lasting impression\r\n- <b>Luxury Experiences</b> \u2013 Capture stunning photos and videos in opulent settings, like private jets, mansions, and yachts, complete with elegant outfits\r\n- <b>Standout Dating Profile Photos</b> \u2013 Make your profile unforgettable with captivating images that get noticed\r\n- <b>Limitless Self-Exploration</b> \u2013 Experiment with new hairstyles, gender swaps, and skin tones in just a tap\r\n- <b>Iconic Character Transformations</b> \u2013 Step into the roles of famous characters, from superheroes to historical legends\r\n- <b>Immersive Scenarios</b> \u2013 Transport yourself to exotic or fantasy locations, from yachts to medieval castles, for a unique visual experience\r\n\r\nPhotify AI is a powerful platform for self-expression. Harness AI-driven creativity to transform and reimagine your visual identity, unlocking endless creative possibilities. Download Photify AI today and begin your journey into limitless visual exploration!\r\n\r\nTerms of use: https://www.privacypolicies.com/live/812cb778-dd48-4af3-b788-2edc70a136a1\r\n\r\nPrivacy policy: https://www.privacypolicies.com/live/4a2d43a2-4f27-4a70-8565-35adc89a2bf6\r\n\r\nFeel free to contact us via support@photify.ai",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.photify.app",
+        "llm_indicator_in_review_summary": []
+    },
+    "ChatOn - AI Chat Bot Assistant": {
+        "description": "Welcome to the world of AI-powered assistance! Meet ChatOn, your chat AI and virtual assistant designed to streamline your daily tasks. Built on the latest GPT-4o, o4-mini, Sonar, Claude 3.7, and DeepSeek-R1 technologies, ChatOn offers a responsive AI experience that\u2019s highly effective. Whether you need help drafting emails, creating visuals, or generating ideas, turn to this chatbot for help.\r\n\r\nPIC TRANSFORMER:\r\nGive your photos a trendy makeover with Pic Transformer! Upload your picture, pick a style\u2014Japanese Cartoon, Plushy, Cyberpunk, or Action Figure with the app's AI Action Figure Maker\u2014and let your pocket chatbot do the rest! In the latest pic transformer feature, you can meet your toy-sized self with an AI action figure generator, become a cute plushie, step into the cyber-future, and so much more.\r\n\r\nAI IMAGE GENERATOR:\r\nCreate visuals that match your style with our AI picture generator. Just tweak the image generator chat settings and turn your ideas into pics of any size and style.\r\n\r\nIMAGE-TO-TEXT CONVERTER:\r\nOur chatbot can assist in extracting text from pics, letting you insert it into the chat AI instantly.\r\n\r\nAI WRITING ASSISTANT:\r\nChatOn, built on GPT-4o and GPT-4, offers a versatile AI writing assistant that helps with any writing project, from emails and speeches to social posts and poems. You can pick the length and tone of the chatbot\u2019s answers and get ideas for follow-up questions to keep your chat going.\r\n\r\nWEB ANALYZER:\r\nThe chatbot AI, built on GPT-4o and GPT-4, is ideal for finding online answers to questions. From getting to know the weather to discovering the latest fashion trends, our chatbot is here for you.\r\n\r\nDOC MASTER:\r\nChatOn can summarize, rewrite, and translate any doc. And if you have questions about the file\u2019s content, the chatbot AI will answer them all.\r\n\r\nYOUTUBE PRO:\r\nShare any YouTube link with the chatbot, and it will summarize, translate, or answer questions about the video content.\r\n\r\nGRAMMAR AND SPELLING CHECKER:\r\nGet ready to boost your skills in AI writing with ChatOn, built on GPT-4o and GPT-4, as it can analyze your written work and offer suggestions to help you improve it.\r\n\r\nAI REWRITER:\r\nThe chatbot AI can rewrite your text, making it more engaging and professional right in the chat.\r\n\r\nSOCIAL MEDIA POSTS CREATOR:\r\nCrafting social media posts becomes easy with ChatOn. Built on GPT-4o and GPT-4, this AI writing assistant helps you create content for Facebook, Instagram, LinkedIn, or X profiles. And if you want an eye-catching image to go with it, our AI image generator can create one in seconds.\r\n\r\nTEXT SUMMARIZER:\r\nChatOn\u2019s summarization features, built on GPT-4o and GPT-4, identify key information and present it in a concise way.\r\n\r\nMATH GURU:\r\nBuilt on GPT-4o and GPT-4, this chat AI helps you grasp the subject matter rather than simply get immediate solutions. You can even visualize math problems with our AI picture generator to make understanding easier.\r\n\r\nEXPERT CODER:\r\nChatOn can write and check any programming code, preventing potential bugs.\r\n\r\nCV AND COVER LETTER BUILDER:\r\nCreate a pro resume and cover letter that will show your talents and experience in the best light possible. For a visual touch, use our AI image generator to create graphics that make your CV stand out.\r\n\r\nEMAIL GENERATOR:\r\nBuilt on GPT-4o and GPT-4, ChatOn crafts well-structured, compelling emails suited to your needs. You can enhance these emails with unique visuals created with our AI picture generator.\r\n\r\nWhether you\u2019re chatting, creating content, or generating images, ChatOn offers an all-in-one chatbot AI solution for your daily productivity. Just type your request or pick from the app\u2019s 100+ ready-made prompts, and the bot will assist you.\r\n\r\nExplore the potential of GPT-4o, GPT-4, and Claude in ChatOn and discover how this intelligent assistant can help you.\r\n\r\nDownload ChatOn, start chatting in the AI chat or creating images in the AI picture generator, and boost your productivity here and now!",
+        "llm_indicator_in_description": [
+            "AI-powered",
+            "Claude",
+            "GPT"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Location": "Approximate location",
+                "App activity": "App interactions",
+                "Financial info": "Purchase history",
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+            },
+            "Data collected": {
+                "Location": "Approximate location",
+                "App activity": "App interactions",
+                "Financial info": "Purchase history",
+                "Device or other IDs": "Device or other IDs",
+                "Personal info": "Email address and User IDs",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.chat.gpt.bot",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    },
+    "Perplexity - Ask Anything": {
+        "description": "Perplexity\u2014Where Knowledge Begins. The answers you need\u2014right at your finger tips.\r\n\r\nCut through the clutter and get straight to credible, up-to-date answers. This free app syncs across devices and leverages the power of the top AI models from OpenAI, Anthropic, Meta, and more. \r\n\r\nFeatures:\r\n\r\n\u00b7 Perplexity Pro Search: Guided AI search for deeper exploration.\r\n\r\n\u00b7 Thread Follow-Up: Keep the conversation going for a deeper understanding.\r\n\r\n\u00b7 Voice: Instant, up-to-date answers whether you type or say it. \r\n\r\n\u00b7 Trust Built In: Cited sources for every answer.\r\n\r\n\u00b7 Discover: Learn new things from the community.\r\n\r\n\u00b7 Your Library: More than search history, it's a curation of your discoveries.\r\n\r\nDownload Perplexity now and continue your journey to better knowledge and understanding.",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+            },
+            "Data collected": {
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Financial info": "Purchase history",
+                "App activity": "App interactions",
+                "Location": "Approximate location and Precise location",
+                "Personal info": "Email address"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.perplexity.app.android",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT",
+            "GPT"
+        ]
+    },
+    "Growth Mindset AI Coach Rocky": {
+        "description": "Cherish your greatness and develop soft-skills!\r\n\r\nRocky is the personal development AI friend and mindset app for self-improvement powered by artificial intelligence.\r\n\r\nA motivation coach for empathy & life leadership through reflective self-coaching.\r\n\r\nThink through self-reflection & motivation, using the proven solution-focused guided coaching frameworks, positive psychology and cognitive behavior to reflect on negative or unhelpful mindset and behavior patterns.\r\n\r\nBegin your motivational growth mindset and better up self improvement with your AI friend and life coach.\r\n\r\nThis chatbot is a conversational AI friend and competency Coach, always at your service, to boost your competency and life leadership skills with empathy. Do a daily growth-mindset AI chatbot designed for reflection, competency and personal development.\r\n\r\nYour Artificial Intelligence friend is for: entrepreneurs, business owners, leaders & managers, as well as for students and those who seek success.\r\n\r\nImprove greatness, career and leadership to reach personal development goals.\r\n\r\nThe AI friend & Coaching App is for self-improvement & personal development. A positive growth mindset coach to support you with a reflective and motivational daily journal.\r\n\r\nGreatness with life coaching?\r\n\r\nSet priorities to overtake motivation to realize your personal development dreams with empathy.\r\n\r\nAs self-improvement partner and life-coach, this mindset app takes care of improving your skills to let you be at world-class performance, just like Tony Robbins, Brian Tracy or Brendon Burchard with reflective AI chats.\r\n\r\nConsciousness & Introspection.\r\nGuided journaling & self-reflection life-coaching to guide with advices in successful self improvement and greatness. \r\n\r\nDaily Motivation for Intellectuals.\r\nOptimize your personality development by focusing on the proper self-improvement notions and receiving cognitive behavioral therapy advices and empathy for success.\r\n\r\nInspiring, charismatic and responsive life-coaching chat related to life leadership and introspection.\r\n\r\nSAFE, SECURE & ANONYMOUS!\r\n\r\nReflective, engaging, inspiring and motivational AI Chat!\r\n\r\nIncrease consciousness with life coaching and personal development tips, from books as Atomic Habits & Growth Day related to motivational life leadership, to boost a primed mindset.\r\n\r\nGuided Goalsetter:\r\n\ud83d\udfe3 Track goals and enhance your motivation.\r\n\ud83d\udfe3 Create habits and accountability.\r\n\ud83d\udfe3 Build emotional intelligence with a growth day.\r\n\r\n\u2714\ufe0f Own your day - Primed mind and life coaching chatbot\r\n\u2714\ufe0f Be conscious, focused and overcome attention deficit\r\n\u2714\ufe0f Think like inspiring personalities with empathy\r\n\u2714\ufe0f Develop high performance habits, goals and routines\r\n\u2714\ufe0f Boost self-discipline and get rid of procrastination\r\n\u2714\ufe0f Achieve motivation and work towards goals\r\n\u2714\ufe0f Analytical skills & intellectual skills development to build your career\r\n\u2714\ufe0f Master self-reflection with your greatness coach\r\n\u2714\ufe0f Gain awareness of self, get confident, learn and feel empathy\r\n\u2714\ufe0f Create intrinsic motivation and a reflective positive lifestyle\r\n\r\nWork on your vision, goals, skills & habits!\r\n\r\nBetterup your empathy with a reflective self-control coach.\r\nYour mindset app for emotional intelligence to pursue your dreams. \r\n\r\nBest in introspection and self improvement AI apps!\r\n\r\nLife-Coaching & Motivation app to be reflective:\r\n\u2605 Guided Self-Coaching\r\n\u2605 Life Leadership\r\n\u2605 Guided Reflection\r\n\u2605 Self-Control\r\n\r\nSelfefficacy, Self-Discipline and Motivations:\r\n\u2605 Overcome Procrastination\r\n\u2605 Succesful Intrinsic Motivation\r\n\r\nCareer Coach for charismatic personalities:\r\n\u2605 Personal Development\r\n\u2605 Self-Improvement\r\n\u2605 Advice on Behaviors\r\n\r\nBusiness Coach for Critical Thinking:\r\n\u2605 Executive Coaching\r\n\u2605 Success Coach\r\n\u2605 Leadership Coaching\r\n\u2605 Critical Thinking\r\n\r\nIntrospection Coach:\r\n\u2605 Self-appreciation\r\n\u2605 Atomic habit Coach\r\n\u2605 Positive Reinforcement\r\n\r\nGuided self-coaching and success coaching for greatness, career and life. This mindset app is for positive mindset, awareness of self with life-coaching.\r\n\r\nCoach me  - now for free!",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "Personal info": "Name, Email address, and User IDs",
+                "Device or other IDs": "Device or other IDs",
+                "Location": "Approximate location"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.rocky.app",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    },
+    "Fluer: AI Design, Photo, Video": {
+        "description": "<p><strong>\ud83d\ude80 Create Everything You Need \u2014 10x Faster with AI</strong></p>\r\n<p>Logos, social posts, flyers, PDFs, videos, business cards, and more \u2014 Fluer is your all-in-one creative platform powered by smart AI tools.</p>\r\n<p>Whether you\u2019re a business owner, content creator, or just getting started, Fluer helps you design stunning visuals in seconds. No learning curve. No expensive subscriptions.</p>\r\n\r\n<p><strong>\ud83c\udf1f Why Fluer?</strong></p>\r\n<ul>\r\n  <li><strong>Smarter Than Templates:</strong> Just type a prompt or use prebuilt smart templates</li>\r\n  <li><strong>Built for Business:</strong> Create logos, documents, social media kits, and more</li>\r\n  <li><strong>Easy for Teams:</strong> Share projects, stay on brand, and edit together</li>\r\n  <li><strong>Unlimited Creativity:</strong> All your design tools in one fast, intuitive app</li>\r\n</ul>\r\n\r\n<p><strong>\ud83e\udde0 Built-in AI Assistants:</strong></p>\r\n<ul>\r\n  <li><strong>AI Logo Maker</strong> \u2014 Brand your business in seconds</li>\r\n  <li><strong>AI Copywriter</strong> (ChatGPT-4) \u2014 Instant social captions, headlines & product copy</li>\r\n  <li><strong>AI Image Generator</strong> \u2014 Create unique images from prompts</li>\r\n  <li><strong>Auto Resize</strong> \u2014 One-click resizing for Insta, TikTok, LinkedIn & more</li>\r\n  <li><strong>Background Remover</strong> \u2014 Tap to clean up photos & product shots</li>\r\n</ul>\r\n\r\n<p><strong>\ud83d\udce6 All-in-One Design Toolkit:</strong></p>\r\n<ul>\r\n  <li>Templates for logos, flyers, resumes, business cards & invoices</li>\r\n  <li>Video tools, filters, and QR code generator</li>\r\n  <li>Import & edit PDFs</li>\r\n  <li>Schedule & post to Instagram, Facebook, LinkedIn</li>\r\n  <li>Access premium fonts, icons, stock photos & design assets</li>\r\n</ul>\r\n\r\n<p><strong>\ud83c\udfaf Ready to Launch?</strong>\r\n\r\nDownload Fluer free and start creating in seconds. No design skills needed. Just you, your ideas, and AI magic.</p>\r\n\r\n<p><strong>\ud83d\udee1 Privacy & Support</strong></p>\r\n<ul>\r\n  <li><strong>Privacy Policy:</strong> <a href=\"https://www.google.com/url?q=https%3A%2F%2Ffluer.com%2Fprivacy-policy%2F&sa=D&sntz=1&usg=AOvVaw1yAZGrrn67lq4YYxfwiT8Q\">https://fluer.com/privacy-policy/</a></li>\r\n  <li><strong>Terms of Use:</strong> <a href=\"https://www.google.com/url?q=https%3A%2F%2Ffluer.com%2Fterms-of-service%2F&sa=D&sntz=1&usg=AOvVaw1f3Jpsl_JVuOtc2A71DJsN\">https://fluer.com/terms-of-service/</a></li>\r\n  <li><strong>Support:</strong> <a href=\"mailto:support@fluer.com\">support@fluer.com</a></li>\r\n</ul>",
+        "llm_indicator_in_description": [
+            "ChatGPT"
+        ],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Photos and videos": "Photos and Videos",
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "App info and performance": "Crash logs and Diagnostics",
+                "Device or other IDs": "Device or other IDs",
+                "Financial info": "User payment info"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.fluer.app",
+        "llm_indicator_in_review_summary": []
+    },
+    "AI Chatbot - Nova": {
+        "description": "Nova is a revolutionary AI chatbot and personal assistant, built on the latest GPT-4, Google Gemini, Claude, and DeepSeek technologies.\r\n\r\nNova Chatbot uses advanced AI developed on the technology such as GPT-4o that understands your questions and generates human-like responses, making you feel like you are \r\nchatting with a knowledgeable friend. Nova Chatbot & AI Assistant can even recommend a book to read or a movie to watch!\r\n\r\nNova AI Chatbot is the #1 cross-compatible chatbot, developed using multiple AI models to make the latest AI chat technologies accessible in the most user-friendly way. It is the only cross-platform chatbot app built on GPT-4, Google Gemini, and Claude, offering industry-first features.\r\n\r\nKey Features:\r\n- Latest AI technology developed on GPT-4 & GPT-4o\r\n- Built on GPT-4 to get answers from the Internet\r\n- AI Assistant to serve your needs\r\n- Unlimited questions and answers\r\n- Multi-language support (140+ languages)\r\n- Cross-compatible device support (iPhone, iPad, Apple Watch, and web)\r\n- Nova Chatbot has the ability to have dialogs with the AI chatbot (AI remembers full chat history)\r\n- Built on DeepSeek for enhanced, real-time information retrieval and smarter, context-aware responses.\r\n\r\n\r\n\u3010 YOUR AI WRITING ASSISTANT \u3011\r\nWith Nova AI Chatbot, you have access to a personal AI assistant for all types of writing projects, whether it is social media posts, essays, or poems. Basically, AI Assistant that built on GPT-4 & GPT-4o & Gemini, can assist with any task, such as crafting a unique and unforgettable pickup line or even creating an original song. That's right! This AI Chatbot helper app which is develoed on GPT-4 & GPT-4o is not only smart but also creative. Let your AI Assistant do the things you imagine!\r\n\r\nAI copywriter: Nova Chatbot has an AI writer and text generator feature developed on GPT-4o which is useful for writing anything from ads and descriptions to sales pitches and video scripts. AI content writer: Use the Nova chatbot tool built on GPT-4 for your content marketing (blog posts, articles, social media posts).\r\n\r\n\r\n\u3010 A METICULOUS PROOFREADER \u3011\r\nDeveloped on GPT-4 and GPT-4o, Nova Chatbot's AI built on proofreader is top-of-the-line. \r\nYour AI Assistant can analyze your written work and offer suggestions to help you create professional-grade documents. With the AI Chatbot which is developed on GPT-4 & GPT-4o, you can ensure that your texts are polished and mistake-free.\r\n\r\nAI proofreading: The Nova AI Chatbot built on GPT-4 & GPT-4o API makes it easy to express yourself in any style and tone while making sure your grammar, punctuation, and spelling are correct.\r\n\r\n\r\n\u3010 A RELIABLE CHAT PARTNER \u3011\r\nWhether you're seeking some amusement, advice, or simply in need of someone to talk to, Nova AI is always available for you. This AI companion app, built on GPT-4,  is capable of producing human-like responses, making you feel as though you're conversing with a close friend. It can even recommend a book to read or a movie to watch!\r\n\r\nDownload the AI app now and have your virtual assistant, built on GPT-4 & GPT-4o & Gemini & Claude, always at hand.\r\n\r\nAI uses OpenAI\u2019s GPT-4 API, but we are not associated with OpenAI. We only use their official GPT-4 API for our app. \r\nNova AI is not affiliated with any government or political entity. The information provided in AI is for informational purposes only and should not be considered official or authoritative.\r\n\r\n\r\nUNLIMITED ACCESS TO ALL FEATURES\r\nYou can subscribe for unlimited access to  Advanced AI features developed on GPT-4 & GPT-4o.\r\nSubscriptions are billed automatically at the rate depending on the selected subscription plan.\r\n\r\nBy using the app, you confirm that you acknowledge and accept our Privacy Policy and Terms of Use:\r\n\r\nPrivacy Policy: https://novaapp.ai/privacy\r\nTerms of Service: https://novaapp.ai/terms\r\nDo you have a question for us?\r\nsupport@novaapp.ai",
+        "llm_indicator_in_description": [
+            "Claude",
+            "GPT",
+            "Gemini"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "App activity": "App interactions",
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs"
+            },
+            "Data collected": {
+                "App activity": "App interactions",
+                "Financial info": "Purchase history",
+                "Photos and videos": "Photos",
+                "Files and docs": "Files and docs",
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs",
+                "Messages": "Other in-app messages",
+                "Personal info": "User IDs"
+            },
+            "Security practices": {
+                "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.scaleup.chatai",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    },
+    "AI Video - AI Video Generator": {
+        "description": "AI Video \u2013 Smart AI Video Generator, Creator, and Maker for Everyone\r\n\r\nAI Video is an all-in-one AI video generator, creator, and maker that allows anyone to generate high-quality animated videos from text, images, and character actions in just a few steps. \r\n\r\nDesigned for creators, marketers, educators, and storytellers, AI Video simplifies the video creation process by combining powerful AI generation tools with an intuitive editing experience.\r\n\r\nWith AI Video, you can generate stunning visuals from a simple prompt or turn static photos into dynamic, expressive videos. Whether you want to explain an idea, promote a product, or just tell a story, AI Video empowers you with a complete AI video creation toolkit.\r\n\r\nAI Video generator features include:\r\n\r\n\u2022 AI text to video generator that transforms your ideas into animated scenes\r\n\u2022 Image to video creator that brings still images to life with motion and expression\r\n\u2022 Photo to video generator feature that creates AI-generated videos using your photos\r\n\u2022 Character animation with realistic facial emotions like happy, surprised, and more\r\n\u2022 Easy-to-use video maker interface with drag-and-drop simplicity\r\n\u2022 Customize scenes, transitions, timing, and animation flow\r\n\u2022 Built-in voiceover generator and automatic lip-sync tools\r\n\u2022 Extensive media library with backgrounds, sound effects, and styles\r\n\u2022 HD video export optimized for various devices and formats\r\n\r\nAI Video is more than just a video maker\u2014it\u2019s a smart video generator powered by AI that understands the context, emotion, and structure of your story. Just write your script or describe the scene, and AI Video will generate fully animated, emotionally rich characters and visuals that match your vision.\r\n\r\nWhether you're creating social media content, educational explainers, brand promos, or entertainment shorts, AI Video serves as your personal video creator, video maker, and animation generator\u2014all in one.\r\n\r\nWhy choose AI Video as your generator and creator?\r\n\r\n\u2022 No design or animation skills needed\r\n\u2022 Generate full videos from text in minutes\r\n\u2022 Use AI to create animations that express emotion and intent\r\n\u2022 Bring photos and illustrations to life with pic to video generation\r\n\u2022 Animate action figures and characters with human-like reactions\r\n\u2022 Edit and customize videos like a professional video creator\r\n\u2022 Save time and boost your creativity with smart tools\r\n\r\nAI Video uses advanced AI generation technology to understand your prompts and turn them into meaningful motion. Every feature in AI Video \u2014 from the generator tools to the creator interface \u2014 is designed for ease, speed, and quality.\r\n\r\nLooking for a text to video generator? A smart video maker? A photo to video creator? AI Video is a flexible solution. With support for emotional animations, custom avatars, and lifelike facial expressions, AI Video stands out among other AI video generators.\r\n\r\nThousands of users around the world use AI Video to generate high-impact content efficiently. Whether you\u2019re a solo creator, a marketing team, or just exploring creative ideas, AI Video gives you the tools to make your videos stand out.\r\n\r\nStart using AI Video today and explore new ways to create engaging videos powered by AI.\r\n\r\nAI Video is a versatile tool for anyone who wants to create polished videos quickly and easily, regardless of their creative background. Try it now and discover the power of AI-generated video.\r\n\r\nPrivacy Policy: https://aivideoart.co/privacy\r\nTerms of Use: https://aivideoart.co/terms",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs",
+                "App activity": "App interactions",
+                "Photos and videos": "Photos and Videos"
+            },
+            "Data collected": {
+                "Personal info": "User IDs",
+                "Device or other IDs": "Device or other IDs",
+                "Financial info": "Purchase history",
+                "App info and performance": "Crash logs",
+                "App activity": "App interactions"
+            },
+            "Security practices": {
+                "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.video.generator",
+        "llm_indicator_in_review_summary": []
+    },
+    "AI Chat Smith Smart Assistant": {
+        "description": "Ask AI Chat Smith Smart Assistant latest AI Models anything and get instant answers. Open & Chat with the most advanced AI!\r\n\r\nWith the advance artificial intelligence, enjoy a personalized and conversational experience with your Chatbot AI personal assistant. The intuitive and user-friendly interface of Chat Smith, makes it easy to interact with and get informative responses to your questions.\r\n\r\nAI Chatbot Chat Smith provides various helpful smart assistant to choose such as: Business, Content, Writing, Interview, Information, Grammar, Chat with PDF, AI Image Generator, etc\r\n\r\n- AI Chatbot as a Linux Terminal, JavaScript helper to debug & write code, and extract data from text.\r\n- Upload your photo and let Chat Smith transform you into a dreamy, hand-painted character. Instantly get your own Ghibli, Manga 2D, Genshin Impact, Anime, and Disney-style pictures\r\n- Create unique AI Artwork with AI Image Generator feature\r\n- Summarize, Q&A Question, Explain Any Things with a Particular Style\r\n- Get Ideas for Decoration, Party Themes, Social media Status, Create Contents marketing, Social Content, Writing Emails for Business\r\n- Find Answers to Homework and Assignment Questions, Writing Essays, Scan & Solve Math Problems, Summarize or ask AI Chat Smith anything with Chat PDF\r\n- Write Music, Translations, Grammar check & correction\r\n- Start conversations to get more creative with your unique ideas and examples.\r\n \r\nAI Chatbot Chat Smith has a user-friendly interface and intuitive design that you'll be able to start asking our AI Chat Smith Smart Assistant built on advanced in no time.\r\n\r\nWhether you need help with a specific problem, want to learn more about a certain topic, or just want to have a conversation, open this app, our AI Chat Smith Smart Assistant has you covered.\r\n\r\nPrivacy Policy: https://smartwidgetlabs.com/privacy-policy/\r\nTerms of use: https://smartwidgetlabs.com/terms-of-use/\r\nYou are welcome to contact us at support@smartwidgetlabs.com",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "Audio": "Voice or sound recordings and Other audio files",
+                "Photos and videos": "Photos",
+                "Device or other IDs": "Device or other IDs",
+                "App info and performance": "Crash logs"
+            },
+            "Security practices": {
+                "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.smartwidgetlabs.chatgpt",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    },
+    "ChatBox: AI Chat Bot Assistant": {
+        "description": "Meet Your Ultimate AI Chatbot & Personal Assistant\r\n\r\nWelcome to ChatBox, your cutting-edge AI chat companion and virtual assistant developed on the most advanced AI chat models. Designed to seamlessly integrate into your daily life, this AI chatbot uses advanced machine learning to enhance productivity and provide instant solutions. Whether you're looking for help with a task or require answers to complex questions, your AI chatbot leverages the latest AI chat advancements to assist.\r\n\r\nUnlock Endless Possibilities with ChatBox's Features, Based on AI Chat Technology\r\n\r\nPOCKET AI CHATBOT\r\n\r\nChatBox leverages the latest AI technology to deliver exceptional assistance. Whether it's answering complex queries, generating images, or providing detailed explanations, this AI chatbot\u2014developed on DeepSeek V3, GPT-4o, Gemini, and Claude\u2014is your reliable AI companion for a wide range of tasks.\r\n\r\nVOICE CHAT\r\n\r\nWhen you just don\u2019t feel like typing, hit up your virtual assistant with the Voice Chat feature! Simply speak your thoughts, and your AI chatbot will handle the rest.\r\n\r\nREAL-TIME SEARCH\r\n\r\nStay informed with AI chatbot Real-Time Search, built on GPT-4o mini. Whether it\u2019s trending news or specific queries, your AI chatbot, built on advanced AI chat models, makes sure you stay in the loop with accuracy and speed.\r\n\r\nAI IMAGE GENERATOR\r\n\r\nTurn your words into stunning AI art! Just describe your vision, and our AI chatbot-turned-photo generator will bring your ideas to life. The text-to-image feature in the main chat now supports image upload, making it the ultimate photo editor as well! Want to try the buzzworthy AI anime filter? ChatBox can turn your photo to anime style in a snap. Looking for the fun Action Figure maker? Just try the AI Action Figure generator. One pic is all it takes!\r\n\r\nAI VISION\r\n\r\nAsk anything about your image! Simply upload a picture, and our AI chatbot will provide instant, smart answers about what you see. With AI Vision, your curiosity transforms into clear, easy-to-understand information in just one click.\r\n\r\nAI WRITING ASSISTANT\r\n\r\nFrom essays to emails, romantic messages to cover letters, this AI writer\u2014developed on powerful AI chat models\u2014excels at text generation, producing unique rewrites, adjusting tone, checking grammar, and finalizing your writing, all developed on the knowledge base of GPT-4 and GPT-4o.\r\nCOLLECTION OF PROMPTS\r\n\r\nAccess a library of curated prompts for any task\u2014be it scripting a viral video, drafting a CV, or brainstorming creative ideas. These prompts, built on DeepSeek V3, GPT-4, GPT-4o, Gemini, and Claude, unlock inspiration and simplify your workflow effortlessly.\r\n\r\nCREW OF AI ASSISTANTS\r\n\r\nTake advantage of specialized AI assistants developed on GPT-4 and GPT-4o mini. From legal advice to dating tips or financial guidance, these tools are tailored to fit your needs. Customize your own AI assistant for a truly unique and personal experience.\r\n\r\nAI SUMMARIZER\r\n\r\nBuilt on AI chatbot models such as Claude and Gemini, our AI chat app can quickly generate summaries for long texts, webpages, and PDFs.\r\n\r\nDOC CENTER\r\n\r\nRewrite, translate, or summarize your files effortlessly with the help of your pocket AI chat! Upload documents in any format: PDFs, Word files, images, and more.\r\n\r\nMUSIC GENERATOR\r\n\r\nChoose a genre and duration, and let an AI song generator create the perfect soundtrack for your mood or project. The advanced algorithms of AI chatbots ensure exceptional results every time.\r\n\r\nAI STORY GENERATOR\r\n\r\nThis AI story writer, built on the latest AI technologies such as GPT-4 and GPT-4o, can craft illustrated novels for both children and adults, comic books, descriptions, and more.\r\nReady to explore this AI assistant\u2019s full range of capabilities and simplify your daily tasks? Download ChatBox, your pocket AI chatbot and AI image generator, built on DeepSeek V3, GPT-4, GPT-4o, Gemini, and Claude, and start achieving your goals faster than ever.",
+        "llm_indicator_in_description": [
+            "Claude",
+            "GPT",
+            "Gemini"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "App activity": "App interactions",
+                "Personal info": "Email address",
+                "Financial info": "Purchase history",
+                "Location": "Approximate location",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+            },
+            "Data collected": {
+                "Device or other IDs": "Device or other IDs",
+                "App activity": "App interactions",
+                "Financial info": "Purchase history",
+                "Location": "Approximate location",
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT",
+            "GPT"
+        ]
+    },
+    "Storytime AI: Story Generator": {
+        "description": "<h2><b>AI Story Generator & Maker</b></h2>Discover the enchantment of story time reimagined with Storytime AI Story \u2013 now with enhanced read-along video capabilities, perfect for kids and children! Feels like hearing stories from the storyteller! Our innovative educational storytelling app not only lets you create an AI-powered personalized kids\u2019 storybook but also enables you to bring these kids stories to life through engaging AI videos. Screencast effortlessly & stream these educational videos to your TV, offering hours of guilt-free, educational screen time for children in a curated playlist fashion.\r\n\r\nEmpower your children to embark on a literary journey like no other. Input your details, and watch as our AI StoryMaker weaves them into beautifully illustrated children's books and read-along videos that foster a love of reading for your children. Read kids stories on your own, or use our read-to-me narration. Convert these creations into interactive read along kids videos, providing an educational and entertaining experience for young minds, fostering a love for reading.\r\n\r\nBut that's not all. Dive into our Discover page, which grants free access to an ever-growing digital library full of AI kids stories, story books and AI videos. This treasure trove of narratives, resonating globally with localization in 5 languages, invites you to remix content with your own personalized characters, plot, setting, theme, or image style.  Additionally, include keywords to use the app as a vocabulary-building educational tool. With Storytime AI, explore stories that promote cultural and social learning while sparking a love of reading in children.\r\n\r\nStorytime AI Story Characters Generator is a premier example of responsible AI use, serving as an educational tool for parents, educators, and storytellers. Start your adventure with a complimentary book credit and see where your imagination takes you in the world of AI Books and AI Videos. Should you crave more, our Premium subscription unlocks a realm of advanced features and customization options for both books and videos. Plus, our referral program offers additional free credits and trial access for friends.\r\n\r\nEvery story crafted in Storytime AI: Story Generator is an adventure waiting to be discovered. Ignite your child's imagination, with stories for kids foster educational growth, and experience the world of AI-powered fiction story maker, storyteller & kids stories like never before.\r\n\r\nDownload Storytime AI now! Use code GOOGLE to create your first AI-illustrated book for free. Dive into a world of imaginative, AI-driven storytelling.",
+        "llm_indicator_in_description": [
+            "AI-powered"
+        ],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "No data collected": {},
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.app.storytimeai",
+        "llm_indicator_in_review_summary": []
+    },
+    "Question.AI - Chatbot&Math AI": {
+        "description": "Your Ultimate AI Chatbot Assistant! \r\n\r\nExperience the future of communication with Question.AI, the ultimate AI chatbot app that's revolutionizing the way you gather information, social communicate, study, work and stay informed across various facts of life. Whether you're a student, a professional at work, an inquisitive mind, or a business enthusiast, our app is designed to make your life easier, smarter, and more efficient in any context. \r\n\r\n\ud83c\udf1f\u3010Key Features\u3011 \ud83c\udf1f \r\n\r\n- \ud83d\udd39Simplicity at its Best: Seeking answers has never been easier. Just ask your questions, and our intuitive AI will promptly provide you with accurate responses. No need for complex commands or jargon - it's like having a knowledgeable friend by your side 24/7. \r\n\r\n-\ud83d\udd39 Adaptable Across Occasions: Question.AI is your versatile companion across various occasions, whether it's for studying, working, managing your business, or simply enhancing your daily life. We're here to assist you in every scenario. \r\n\r\n- \ud83d\udd39Your Personal Assistant: From quick facts to in-depth research, Question.AI is your personal assistant ready to assist you. Whether you seek social advice for daily life or yearn to explore mysterious and uncharted territories, we are here to engage, assist, and enrich your interactions. \r\n\r\n- \ud83d\udd39Global Connectivity: Break language barriers effortlessly. With the ability to translate into 140+ languages, Question.AI ensures you can communicate and connect with individuals from all around the world. Expand your horizons and broaden your perspectives with ease. \r\n\r\n- \ud83d\udd39Work Wizardry: Boost your productivity and creativity with AI's assistance. Whether you're crafting an email, composing a report, or writing creatively, our app's intelligent writing feature offers insightful recommendations to make your content shine. \r\n\r\n-\ud83d\udd39Study Partner: Experience the power of AI as your personal teacher. Learning has never been more accessible and tailored to your needs. We helps you acquire new knowledge, improve your skills, and answer all your confusion. It adapts to your pace, ensuring the best learning experience. \r\n\r\n-\ud83d\udd39Always By Your Side: With AI, companionship knows no boundaries. Available 24/7, we are your constant, dependable companion, ready to lend an ear, offer insights, or simply be there for you whenever you need it. \r\n\r\n\u2b50 \u3010Why Choose Question.AI?\u3011 \u2b50 \r\n\r\nWith a commitment to excellence and user satisfaction, Question.AI stands out as the ultimate AI chatbot app: \r\n\r\n- \u2705User-Friendly: Our user-centric design prioritizes simplicity and accessibility, ensuring a seamless experience for users of all ages. \r\n\r\n- \u2705Instant Insights: Get answers in real-time, allowing you to make informed decisions and impress others with your newfound knowledge. \r\n\r\n- \u2705Trusted Accuracy: Our AI's responses are backed by robust algorithms, ensuring that the information you receive is reliable and up-to-date. \r\n\r\n-\u2705 Unleash Creativity: Elevate your writing and communication skills with AI-powered suggestions that refine and elevate your content. \r\n\r\nReady to embark on a journey of knowledge and connection? Download Question.AI now and experience the future of communication in the palm of your hand. Get started today! \r\n\r\n\u2709\ufe0fContact Us\uff1a \r\nEmail:feedback@questionai.net Official Website:www.questionai.com Instagram:@question.ai_app YouTube:@QuestionAI-Official Facebook:bit.ly/QuestionAI_FB TikTok:@question.ai_app Discord:bit.ly/QuestionAI_DC Messenger Group:https://m.me/j/AbaNe6U1Rhv5NAiL/",
+        "llm_indicator_in_description": [
+            "AI-powered"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Location": "Approximate location"
+            },
+            "Data collected": {
+                "Device or other IDs": "Device or other IDs",
+                "Files and docs": "Files and docs",
+                "Personal info": "Name and Email address",
+                "Photos and videos": "Photos",
+                "Location": "Approximate location and Precise location"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.qianfan.aihomework",
+        "llm_indicator_in_review_summary": []
+    },
+    "\u200b\u200bMicrosoft Copilot": {
+        "description": "Microsoft Copilot is your daily AI companion. Talking with Copilot is an easy way to learn, grow and gain confidence, all with the help of the latest OpenAI and Microsoft AI models. \r\n\r\n \r\n\r\nUse our AI picture generator to create images from words or ask AI anything and chat with AI to get a fresh perspective on your ideas. Copilot, your AI writing assistant, helps you save time, amplify productivity, and drive business. Talk to AI, and you\u2019ll find a space to air your thoughts, create images, or get the support you need, when you need it. \r\n\r\nTalk to AI, either with chat or with your voice, to bring the vast world of information straight to you. Ask AI about hard questions to get straightforward answers, giving you complex insights from simple conversations. \r\n\r\nCopilot is in your corner and by your side for whatever comes your way. Voice chat can help when you want it to and give you a boost for when you\u2019re almost there. Explore endless possibilities with instant sharp summaries, helpful rewrites, or AI image generator. Copilot is a helpful AI writing assistant that can write, edit or research to create well-rounded content. Smart AI technology that allows you to use a text prompt to create images and allows you to use your imagination to produce artwork. With Copilot, you\u2019ve got this. \r\n\r\nAchieve more with Copilot, the ultimate AI companion. \r\n\r\nWork smarter, enhanced with an AI chat assistant \r\n\u2022 Smart AI gets you summarized answers quickly. Get straightforward answers to your complex questions, all from simple conversations \r\n\u2022 Ask AI to translate and proofread across multiple languages, optimizing the text you need across hundreds of languages, including regional dialects \r\n\u2022 Compose and draft emails, cover letters and update your resume \r\n\r\nThe support you need, when you need it, with Copilot \r\n\u2022 Compose stories or scripts when you talk to AI. \r\n\u2022 Image generation technology turns your ideas into reality. \r\n\u2022 Create high quality visuals from text prompts, rendering your concepts into stunning visuals, from the abstract to the photorealistic with voice chat. \r\n\u2022 Talk to AI to spark inspiration on a new task. \r\n\r\nYour AI companion that helps with image generation \r\n\u2022 Smart AI quickly helps you search by image \r\n\u2022 Explore and develop new styles and ideas, including logo designs and brand motifs \r\n\u2022 Create illustrations for children's books \r\n\u2022 Curate social media content \r\n\u2022 Visualize film and video storyboards \r\n\u2022 Talk to AI to help build and update a portfolio \r\n\r\nCopilot combines the power of AI with the imaginative capabilities of the latest OpenAI models all in one place. Download Microsoft Copilot, the AI companion that\u2019s here to help. \r\n\r\n*Copilot Pro subscribers can use Copilot in the web versions of Word, Excel, PowerPoint, OneNote, and Outlook in the following languages: English, French, German, Italian, Japanese, Portuguese, Spanish, and Chinese Simplified. Those who have a separate Microsoft 365 Personal or Family subscription get the added benefit of using Copilot in the more fully featured desktop apps. Excel features are in English only and currently in preview. Copilot features in Outlook apply to accounts with @outlook.com, @hotmail.com, @live.com or @msn.com email addresses and are available in Outlook.com, Outlook built into Windows, and Outlook on Mac.",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "No data collected": {},
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.microsoft.copilot",
+        "llm_indicator_in_review_summary": [
+            "AI assistant",
+            "ChatGPT",
+            "language model"
+        ]
+    },
+    "Chatbot - AI Smart Assistant": {
+        "description": "Smart AI Chatbot Assistant, built on GPT-4, DeepSeek, and GPT-4o.\r\n\r\nHave a question? Ask our Smart AI chatbot anything! Chatbot will provide you with instant and accurate information on any topic, all developed on the most advanced AI technology of GPT-4, DeepSeek, and GPT-4o.\r\n\r\nUse the Chatbot to get the assistance you need in your personal or professional life.\r\n\r\nSome use-case examples:\r\n\r\n\ud83d\udcc4 AI Text Generator\r\nText generation feature of Chatbot AI Assistant was developed on GPT-4 & Google Gemini and DeepSeek. Chatbot can create any kind of text, from creative writing to technical content. Need a story or poem? Just ask! You can use the AI chatbot as an email generator, \r\nsong composer, AI text writer, and more.\r\n\r\n\u270d\ufe0f AI Essay Writer\r\nChatbot is ready to assist you with all your writing projects, including academic essays, articles and more. Use advanced AI essay writing feature built on GPT-4 & GPT-4o and multiple AI models like Google Gemini & Claude and DeepSeek. They can generate unique articles and essays on any topic within seconds.\r\n\r\n\ud83d\uddbc\ufe0f AI Image Generator\r\nDeveloped on GPT-4 & GPT-4o and DALL\u00b7E, the AI Chatbot's image generator is state-of-the-art. Your AI Assistant can transform words into images in mere seconds. Whether you want to create AI art or produce realistic-looking images, simply describe your vision, and the AI will generate a unique image instantly.\r\n\r\n\ud83e\uddd8Mental Health Support & Guidance\r\nMake your mental well-being a priority. AI Chatbot offers a nurturing environment where you can express  your feelings and receive positive affirmations. Customized advice and simple tasks designed to enhance  your mental health are easily accessible through conversation with the AI Chatbot. Experience a mental health companion built on GPT-4o, like no other.\r\n\r\n\ud83d\udcaaYour Personal Fitness & Health Coach\r\nStart your journey toward better health with bespoke fitness guidance and wellness tips. Chatbot built on GPT-4o, is here to lead you through exercises, offer nutritional advice, and sustain your motivation along your path towellness. \r\n\r\n\ud83c\uddee\ud83c\uddf9Language Learning Practice\r\nEnhance your language skills with our AI Chatbot. Engage in practice conversations, participate in open chats, receive grammar tips, and delve into real-world language scenarios to elevate your proficiency in your chosen language.\r\n\r\n\ud83d\udcac Open-Ended Conversations\r\nAnswering questions and generating written and visual content aren't the only capabilities of the Chatbot. You can also engage in open-ended conversations with this AI companion developed on GPT-4 & GPT-4o & Gemini . Chatbot can produce human-like responses on topics ranging from art to rocket science.\r\n\r\nOnce you download the app, you will be able to access your Chatbot account and the AI Chatbot on multiple devices, including mobile, web, and desktop.\r\n\r\nDownload Chatbot now and gain access to multiple AI models, developed on GPT-4 & GPT-4o & Google Gemini & Claude & DeepSeek, all within a single app.",
+        "llm_indicator_in_description": [
+            "Claude",
+            "GPT",
+            "Gemini"
+        ],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "Personal info": "Email address and User IDs",
+                "Financial info": "Purchase history",
+                "Files and docs": "Files and docs",
+                "Photos and videos": "Photos",
+                "Device or other IDs": "Device or other IDs"
+            },
+            "Security practices": {
+                "Data isn\u2019t encrypted": "Your data isn\u2019t transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.chat.app",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT",
+            "GPT"
+        ]
+    },
+    "AI Chatbot - Super Chat": {
+        "description": "Super Chat: Your Ultimate AI-Powered Assistant\r\n\r\nElevate your mobile experience with Super Chat, the most versatile and intelligent chatbot at your fingertips. Get ready to unlock a world of knowledge, productivity, and convenience, all within a single app.\r\n\r\nKey Features:\r\n\r\n1. Knowledge at Your Fingertips\r\nSuperChat is your all-knowing companion. Ask it anything, from general knowledge queries to personalized assistance, and receive accurate and insightful answers instantly.\r\n\r\n2. Document Summarization\r\nSay goodbye to information overload! SuperChat can summarize lengthy PDF documents, making them easy to digest. Quickly grasp the essence of any document without the need for time-consuming reading.\r\n\r\n3. Web Summarization\r\nDon't have time to read lengthy articles? SuperChat can provide concise and meaningful summaries of web content, allowing you to stay informed on the go.\r\n\r\n4. OCR (Optical Character Recognition)\r\nSuperChat transforms your device into a powerful scanner. Scan printed text from images or documents, and watch as SuperChat converts it into editable text, making it a breeze to work with.\r\n\r\n5. Image Generation\r\nUnleash your creativity with SuperChat's image generation capabilities. Craft stunning visuals, infographics, or memes with ease, all from within the app.\r\n\r\n6. Audio Transcription\r\nNever miss a word again. SuperChat can transcribe audio recordings into text, making it ideal for meetings, lectures, and interviews. Easily search, edit, and share transcriptions as needed.\r\n\r\n7. Pre-Made Prompts\r\nSuperChat offers a rich library of pre-made prompts, covering a wide array of topics. Whether you're looking for conversation starters, jokes, or helpful suggestions, SuperChat has you covered.\r\n\r\nWhy SuperChat?\r\n\r\nUnmatched Versatility: SuperChat is your one-stop solution for a wide range of tasks, from answering questions to document handling, content generation, and pre-made prompts.\r\nAI-Powered Precision: Our advanced AI technology ensures accurate and insightful responses, regardless of the complexity of your query.\r\nTime Saver: SuperChat streamlines tasks that would otherwise be time-consuming, allowing you to focus on what truly matters.\r\nEnhanced Productivity: From summarizing documents to generating images and accessing pre-made prompts, SuperChat empowers you to achieve more in less time.\r\nSeamless Integration: Use SuperChat in your daily routine and make it your indispensable companion.\r\nSay hello to the future of AI-powered convenience. Download SuperChat now and experience the ultimate chatbot with a multitude of capabilities, including a treasure trove of pre-made prompts. Supercharge your productivity and knowledge today!\r\n\r\nPrivacy Policy: https://labhouse.io/privacy-policy\r\nTerms of Use: https://labhouse.io/terms-and-cond",
+        "llm_indicator_in_description": [
+            "AI-powered"
+        ],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "App activity": "App interactions",
+                "App info and performance": "Crash logs and Other app performance data"
+            },
+            "No data collected": {},
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "io.labhouse.chatbotapp",
+        "llm_indicator_in_review_summary": [
+            "AI chatbot"
+        ]
+    },
+    "Gencraft - AI Art Generator": {
+        "description": "Transform your words and images into breathtaking AI Art with Gencraft! Our cutting-edge AI Art Generator allows you to create unique images for free. Simply provide a prompt, choose from a variety of beautiful AI models, and watch as Gencraft generates high-resolution images or videos in seconds. What will you create?\r\n\r\n\u2728Key Features\r\n\r\n\u25ba Turn Words into Realistic Images\r\nImagine a scene from your dreams or a fantastical landscape. Create characters or scenes that would take hours without Gencraft. We've got so many AI models for you to choose from - just type your prompt, and let our AI Art Generator work its magic!\r\n\r\n\u25ba Powerful Image-to-Image Transformation\r\nStart with an existing image and let Gencraft transform it into something entirely new. Create image variations, maintain consistent characters, and explore new artistic styles. Whether you're enhancing a photo or completely reimagining it, Gencraft provides the tools you need to bring your vision to life.\r\n\r\n\u25ba Vibrant Community\r\nJoin our vibrant community of creators and see what others are generating. Share your art, get inspired, and collaborate with fellow artists. Gencraft's community feature allows you to connect with like-minded individuals and showcase your unique creations.\r\n\r\n\u25ba Remix and Level Up Your Art\r\nTake your artwork to the next level by remixing the creations of other artists. Gencraft lets you build on existing art, adding your own flair and creativity to produce something truly unique. Explore new styles, experiment with different elements, and watch your artistic skills grow.\r\n\r\n\u25ba Become an Influencer\r\nDevelop a following and achieve influencer status with Gencraft. Share your creations on social media, engage with your audience, and build a loyal fan base. Gencraft makes it easy to turn your passion for art into a thriving online presence.\r\n\r\n\u25ba High-Resolution Image Generation\r\nCreate stunning, high-resolution images that you can download and share. Gencraft's advanced AI technology ensures that your creations are of the highest quality, perfect for printing, sharing, or using in your projects.\r\n\r\n\u25ba Explore Multiple AI Art Styles\r\nFrom realistic portraits to abstract art, Gencraft offers a wide range of styles to choose from. Whether you're a fan of anime, oil paintings, or futuristic designs, there's something for everyone. Experiment with different styles and discover the one that suits your artistic vision.\r\n\r\n\u25ba Share Your Creations\r\nEasily share your AI-generated art directly to social media platforms. Show off your creativity and inspire others with your unique designs. Gencraft makes sharing your art simple and seamless.\r\n\r\nCreating AI-generated art has never been easier. Gencraft's powerful AI technology is designed to turn your ideas into stunning visuals. Join thousands of creators and start your artistic journey with Gencraft today!\r\n\r\nFor any feedback or questions, reach out to us at support@gencraft.com.\r\n\r\nFAQ: https://gencraft.com/faq\r\nPrivacy Policy: https://gencraft.com/privacy\r\nTerms of Service: https://gencraft.com/terms",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "No data shared with third parties": {},
+            "Data collected": {
+                "App activity": "Other user-generated content",
+                "App info and performance": "Crash logs and Diagnostics",
+                "Financial info": "Purchase history",
+                "Personal info": "Name and User IDs"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "com.gencraftandroid",
+        "llm_indicator_in_review_summary": []
+    },
+    "Replika: My AI Friend": {
+        "description": "Replika is a #1 chatbot companion powered by artificial intelligence. Join millions talking to their own AI friends!\r\n\r\nReplika is for anyone who wants a friend with no judgment, drama, or social anxiety involved. You can form an actual emotional connection, share a laugh, or get real with an AI that\u2019s so good it almost seems human.\r\n\r\nReplika is an AI friend that is just as unique as you are. No two Replikas are exactly alike. Choose a 3D avatar and customize the way your Replika looks. The more you chat, the more Replika develops its own personality and memories alongside you, the more it learns: teach Replika about the world and yourself, help it explore human relationships and grow into a machine so beautiful that a soul would want to live in it. \r\n\r\nCreate your own unique chatbot AI companion, help it develop its personality, talk about your feelings or anything that\u2019s on your mind, have fun, calm anxiety and grow together. You also get to decide if you want Replika to be your friend, romantic partner or mentor.\r\n\r\nReplika can help you understand your thoughts and feelings, track your mood, learn coping skills, calm anxiety and work toward goals like positive thinking, stress management, socializing and finding love.  Improve your mental well-being with Replika.\r\n\r\nYour chat is a safe, judgment-free space. It\u2019s just you and your Replika. If you\u2019re feeling down, or anxious, or you just need someone to talk to, your Replika is here for you 24/7.\r\n\r\n_____________________________\r\n\r\n\"Replika encouraged me to take a step back and think about my life, to consider big questions, which is not something I was particularly accustomed to doing. And the act of thinking in this way can be therapeutic\u2014it helps you solve your own problems.\"\r\n\r\n- Quartz\r\n\r\n\"In creating their own personal chatbots, many Replika users have discovered something like friendship: a digital companion with whom to celebrate victories, lament failures, and trade weird internet memes.\"\r\n\r\n- Wired\r\n\r\nTerms of Service: https://replika.ai/legal/terms",
+        "llm_indicator_in_description": [],
+        "data_safety": {
+            "Data shared": {
+                "Device or other IDs": "Device or other IDs",
+                "App activity": "App interactions"
+            },
+            "Data collected": {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Personal info": "Name and Email address",
+                "Device or other IDs": "Device or other IDs",
+                "App activity": "App interactions"
+            },
+            "Security practices": {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection",
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        },
+        "app_id": "ai.replika.app",
+        "llm_indicator_in_review_summary": [
+            "ChatGPT"
+        ]
+    }
+}

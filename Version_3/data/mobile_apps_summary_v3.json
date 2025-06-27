@@ -1,0 +1,37 @@
+[
+    {
+        "app_name": "Chatbot AI - Chat & Ask AI",
+        "app_link": "https://play.google.com/store/apps/details?id=newway.open.chatgpt.ai.chat.bot.free",
+        "llm_types_detected": [
+            "AI-powered",
+            "Claude",
+            "GPT",
+            "Gemini"
+        ]
+    },
+    {
+        "app_name": "AI Chatbot - Nova",
+        "app_link": "https://play.google.com/store/apps/details?id=com.scaleup.chatai",
+        "llm_types_detected": [
+            "Claude",
+            "GPT",
+            "Gemini"
+        ]
+    },
+    {
+        "app_name": "Chatbot - AI Smart Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.chat.app",
+        "llm_types_detected": [
+            "Claude",
+            "GPT",
+            "Gemini"
+        ]
+    },
+    {
+        "app_name": "AI Chatbot - Super Chat",
+        "app_link": "https://play.google.com/store/apps/details?id=io.labhouse.chatbotapp",
+        "llm_types_detected": [
+            "AI-powered"
+        ]
+    }
+]

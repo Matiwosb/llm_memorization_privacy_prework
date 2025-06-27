@@ -7,3 +7,4 @@ pandas
 googleplay-scraper
 fastapi
 uvicorn
+cohere

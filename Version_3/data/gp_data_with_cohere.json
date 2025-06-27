@@ -1,0 +1,25 @@
+{
+  "Ask AI - Chat with AI Chatbot": {
+    "description": "Welcome to Ask AI \u2013 Discover Endless Possibilities Every Day!\r\n\r\nExperience conversations with an AI that understands you, adapts to your mood, and personalizes interactions, making each engagement unique.\r\n\r\nASK ANYTHING, ANYTIME:\r\nIgnite your curiosity and engage in fascinating conversations with historical figures, business gurus, or even your favorite celebrities. Built on the GPT-4o model, Ask AI is always ready to offer recommendations, inspiration, and information on any topic.\r\n\r\nIMAGE GENERATION AND EXPLORATION:\r\n\r\n- Be Your Own Artist: Use our AI generator to create images from text, visualizing everything from fantastic scenes to futuristic cities. Our AI turns your descriptions into stunning visuals \u2013 perfect for creating book covers, social media posts, and more.\r\n- Discover Your World Through Images: Snap a photo of anything around you (buildings, art, landscapes) and instantly gain insights with our image input technology. Use the text-to-image feature to convert visual information into readable text.\r\n\r\nENHANCED TEXT GENERATOR FOR EASY WRITING ASSISTANCE:\r\nOur AI-powered writing assistant helps you generate ideas, craft detailed outlines, and effortlessly compose complete articles or creative works. From professional emails to creative stories and songs, managing writing tasks has never been easier.\r\n\r\nFUN LANGUAGE LEARNING AND HOMEWORK HELPER:\r\n\r\n- Language Practice: Immerse yourself in new languages through interactive scenarios, like a samurai adventure in Japanese or managing a restaurant in Spanish. Ask AI, built on GPT-4o, makes learning fun and practical.\r\n- Academic Support: Whether it's a tough math problem or a complex science project, use Ask AI as your reliable homework helper.\r\n\r\nSMART SUMMARY ASSISTANT:\r\n\r\n- Quick Summaries: Get the essence of long videos or detailed documents in an interactive and engaging format. \r\n- Ask Questions: Upload documents or add links to articles or videos, ask your questions, and receive instant accurate answers with the help of Ask AI.\r\n\r\nEASY WEB SEARCH:\r\nNeed the latest information on technological innovations, fashion trends, or health tips? Ask AI Chatbot, scours the web to bring you the most relevant and up-to-date information, keeping you always in the know.\r\n\r\nPERSONALIZED RECOMMENDATIONS AND CREATIVE INSPIRATION:\r\nWhether you're searching for new books, planning your next trip, or seeking creative inspiration, Ask AI offers personalized suggestions and ideas based on your preferences and interests.\r\n\r\nEXPERIENCE THE MOST HUMAN INTERACTIONS:\r\nThe friendly, conversational tone of Ask AI, and its ability to adapt to your mood, makes every interaction feel like you're chatting with a friend. It\u2019s not just a chatbot; it\u2019s a new form of AI companionship that enriches your daily life.\r\n\r\nJoin us on this exciting journey. Download Ask AI now and start exploring a world full of possibilities with the power of AI Chatbot.\r\n\r\nPrivacy Policy: https://static.askaichat.app/privacy-en.html\r\nTerms of Use: https://static.askaichat.app/terms-conditions-en.html",
+    "llm_indicator_in_description": [
+      "AI-powered",
+      "GPT"
+    ],
+    "data_safety": {
+      "No data shared with third parties": {},
+      "Data collected": {
+        "Device or other IDs": "Device or other IDs",
+        "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+        "Location": "Approximate location",
+        "App activity": "App interactions and Other user-generated content"
+      },
+      "Security practices": {
+        "Data is encrypted in transit": "Your data is transferred over a secure connection",
+        "Data can\u2019t be deleted": "The developer doesn\u2019t provide a way for you to request that your data be deleted"
+      }
+    },
+    "app_id": "com.codeway.chatapp",
+    "llm_indicator_in_review_summary": [
+      "ChatGPT"
+    ],
+    "cohere_llm_type": 
