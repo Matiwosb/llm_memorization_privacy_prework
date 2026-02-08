@@ -6,7 +6,7 @@ import datetime
 import re
 # import cohere
 
-# cohere_client = cohere.Client("n9ru6oP9HlMZ44kxvyqI4FqMOuYLDgS8FstSKjdC")
+# cohere_client = cohere.Client("")
 
 # save data in json file
 def save_as_json(data, filename):
