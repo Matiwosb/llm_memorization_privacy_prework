@@ -4,7 +4,7 @@ import json
 import cohere
 import time
 
-COHERE_API_KEY = "kSJ18cvLScuylf7o8SGFcwi5ycPIetzKjx8sEeLP"  # <- Replace with your real API key!
+COHERE_API_KEY = ""  # <- Replace with your real API key!
 
 # Load the apps from keyword search
 with open('data/gp_data_safety_with_description_v4.json', 'r', encoding='utf-8') as f:

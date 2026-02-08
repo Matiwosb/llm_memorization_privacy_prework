@@ -5,7 +5,7 @@ import os
 from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------- CONFIG ----------
-COHERE_API_KEY = "kSJ18cvLScuylf7o8SGFcwi5ycPIetzKjx8sEeLP"  # Replace this with your actual key
+COHERE_API_KEY = ""  # Replace this with your actual key
 INPUT_FILE = "data/gp_data_safety_with_description_v5.json"  # Full scraped app list
 OUTPUT_FILE = "data/cohere_scraped_apps.json"
 SIM_THRESHOLD = 0.7

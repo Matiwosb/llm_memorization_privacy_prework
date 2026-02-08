@@ -8,7 +8,7 @@ import datetime
 import sys
 
 # Initialize the Cohere client with your API key
-cohere_client = cohere.Client("kSJ18cvLScuylf7o8SGFcwi5ycPIetzKjx8sEeLP") # Remember to replace with your actual Cohere API key
+cohere_client = cohere.Client("") # Remember to replace with your actual Cohere API key
 
 # Keywords to identify LLMs in app descriptions and reviews
 description_and_review_llm_keywords =["AI-powered", "GPT", "ChatGPT", "Claude", "Gemini", "LLaMA", "Mistral","LLM", "language model",
