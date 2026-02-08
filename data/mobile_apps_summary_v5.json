@@ -1,0 +1,918 @@
+[
+    {
+        "app_name": "Chatbot AI - Chat & Ask AI",
+        "app_link": "https://play.google.com/store/apps/details?id=newway.open.chatgpt.ai.chat.bot.free",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI chatbot",
+            "AI-Driven",
+            "AI-driven",
+            "AI-powered",
+            "Claude",
+            "DeepSeek R1",
+            "DeepSeek V3",
+            "GPT",
+            "GPT-4o",
+            "Gemini",
+            "Gemini Pro 1.5",
+            "ChatGPT",
+            "GPT"
+        ],
+        "cohere_llm_type": "The app description mentions using several LLMs: GPT-4o, Gemini Pro 1.5, and Claude API. The specific types mentioned are GPT-4o (presumably an iteration of OpenAI's GPT-4), Gemini, and Claude.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Video Generator - Virbo",
+        "app_link": "https://play.google.com/store/apps/details?id=com.virtual.video.i18n",
+        "llm_types_detected_keywords": [
+            "AI avatars",
+            "AI video",
+            "AI-powered",
+            "AI video"
+        ],
+        "cohere_llm_type": "None",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Chatbot - Nova",
+        "app_link": "https://play.google.com/store/apps/details?id=com.scaleup.chatai",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI chatbot",
+            "AI writer",
+            "Claude",
+            "GPT",
+            "GPT-4",
+            "GPT-4o",
+            "Gemini",
+            "GPT"
+        ],
+        "cohere_llm_type": "GPT-4, GPT-4o, Google Gemini, Claude",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Sider: AI Deep Chat Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.sider.ChatGPT.android",
+        "llm_types_detected_keywords": [
+            "AI-powered",
+            "Claude",
+            "DeepSeek R1",
+            "DeepSeek V3",
+            "GPT",
+            "GPT-4o",
+            "Gemini",
+            "ChatGPT",
+            "Claude",
+            "GPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "Access to Leading AI Models:\n- OpenAI: GPT4.5, GPT-4o mini, GPT-4o, o1, o3-mini\n- DeepSeek: DeepSeek V3, DeepSeek-R1, DeepSeek R1 70B\n- Anthropic: Claude 3.7 Sonnet, Claude 3.5 Haiku, Claude 3.5 Sonnet\n- Google: Gemini 2.0 Flash, Gemini 2.0 Pro\n\nThe app description mentions multiple LLMs including Claude, Gemini, and GPT-4 series.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Google Gemini",
+        "app_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "Gemini",
+            "AI video",
+            "ChatGPT",
+            "GPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "Gemini uses the Google's own LLMs, specifically mentioning the use of models like '2.5 Pro' and Veo (which appears to be Veo 2 and Veo 3). These are proprietary Google LLMs and do not seem to align with any existing, widely known LLM categories like ChatGPT, GPT-4, Claude etc. Therefore, the answer is:\n\nGoogle's '2.5 Pro' and Veo series LLMs.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Merlin AI: AI Chat Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=com.foyer.merlin",
+        "llm_types_detected_keywords": [
+            "AI chatbot",
+            "AI-powered",
+            "ChatGPT",
+            "Claude",
+            "GPT",
+            "Gemini",
+            "LLaMA",
+            "ChatGPT",
+            "GPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "OpenAI ChatGPT, Grok AI, DeepSeek, Claude AI, Gemini, Perplexity AI.\n\nThe app, called Merlin AI, appears to be a host platform for multiple LLMs.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "ChatGPT",
+        "app_link": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+        "llm_types_detected_keywords": [
+            "ChatGPT",
+            "ChatGPT",
+            "GPT"
+        ],
+        "cohere_llm_type": "ChatGPT.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Chatbot - AI Smart Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.chat.app",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI assistant",
+            "AI chatbot",
+            "Claude",
+            "GPT",
+            "GPT-4",
+            "GPT-4o",
+            "Gemini",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "The app description mentions using several LLMs:\n- GPT-4\n- GPT-4o (presumed to be a variant or extension of GPT-4)\n- Google Gemini\n- Claude\n- DeepSeek\n- DALL\u00b7E\n\nLLM Type: GPT-4, GPT-4o, Google Gemini, Claude, DeepSeek, DALL\u00b7E.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Replika: My AI Friend",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.replika.app",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "Generative AI"
+        ],
+        "cohere_llm_type": "The app description for Replika makes no specific mention of Large Language Models (LLMs), nor does it refer to any specific types of LLMs such as ChatGPT, GPT-4, Claude, or Gemini. However, it does refer to the use of artificial intelligence (AI) technology, which encompasses LLMs. \n\nThe description highlights the app's chatbot functionality and its ability to engage in meaningful conversations, develop personalities, and provide emotional support, which aligns with some of the capabilities of advanced LLMs. \n\nIt's likely that Replika makes use of LLMs under the hood, but the exact type of LLM used is not explicitly stated in the provided app description. The focus seems more on the user experience and the app's AI companion rather than the specific technology underpinning it. \n\nLLM Type: Likely, but Not Specified.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Meta AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.facebook.stella",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "ChatGPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Monica AI: Deep Chat & Search",
+        "app_link": "https://play.google.com/store/apps/details?id=im.monica.app.monica",
+        "llm_types_detected_keywords": [
+            "Claude",
+            "DeepSeek R1",
+            "GPT",
+            "GPT-4o",
+            "Gemini",
+            "LLaMA",
+            "AI assistant",
+            "ChatGPT",
+            "GPT"
+        ],
+        "cohere_llm_type": "The app description mentions several large language models (LLMs) of various types. Here's a list of all the LLMs referenced in the text:\n\n- DeepSeek R1\n- GPT-4o (assumed to be a variant of GPT-4)\n- o3 mini\n- Gemini 2.0\n- Claude 3.7 Sonnet\n- Qwen\n- Veo 2\n- DALL.E 3\n\nAdditionally, there are also some other AI models mentioned which are focused on computer vision tasks:\n\n- DALL.E (text-to-image)\n- Stable Diffusion\n- Flux\n- Recraft\n- Ideogram\n- Playground\n- Imagen (text-to-image)\n- Veo (text-to-video)\n- SVD\n- Hailuo\n- Runway Gen-3\n- Kling\n- Pixverse\n- Pika\n- SVD (text-to-video)\n\nSo, the answer would be: GPT-4o, o3 mini, Gemini 2.0, Claude 3.7 Sonnet, and DeepSeek R1.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "GPT Chatbot AI - Genie",
+        "app_link": "https://play.google.com/store/apps/details?id=co.appnation.geniechat",
+        "llm_types_detected_keywords": [
+            "AI chatbot",
+            "Claude",
+            "GPT",
+            "GPT-4o",
+            "Gemini",
+            "ChatGPT",
+            "GPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "The app description mentions using Large Language Models, specifically the following types: \n- ChatGPT\n- GPT-4o (a possible variant of GPT-4)\n- Gemini \n- Claude\n- Qwen\n- Grok\n- Deepseek\n\nLLM Used: ChatGPT, GPT-4o, Gemini, Claude, Qwen, Grok, Deepseek.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Chat App - AI Chat bot",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.chat.pro.plus.smart.chatbot.ai.writing.tool",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI chatbot",
+            "Generative AI",
+            "AI chatbot",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "None. The description does not specify which Large Language Model the app uses, but it does mention that the AI Chat Assistant & Chatbot app is powered by the latest AI Technology models.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Answer.AI - Your AI tutor",
+        "app_link": "https://play.google.com/store/apps/details?id=com.cyberdavinci.gptkeyboard",
+        "llm_types_detected_keywords": [
+            "AI-powered",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Leonardo.Ai - Image Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.leonardo.leonardo",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "Leonardo Phoenix is the LLM used in the Leonardo.Ai app.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "invideo AI: Video Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=io.invideo.ai",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI video",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "None. The app description for invideo AI does not mention using a large language model. It focuses on the app's functionality as an AI video generator and editor.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "AI Chat - AI Chatbot Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.chat.gpt.app",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI chatbot",
+            "AI writer",
+            "ChatGPT",
+            "GPT",
+            "GPT-3",
+            "GPT-4",
+            "GPT"
+        ],
+        "cohere_llm_type": "ChatGPT and GPT-4",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Llama Chat: Local LLM Chatbot",
+        "app_link": "https://play.google.com/store/apps/details?id=com.vinsonguo.LlamaChat",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "LLaMA",
+            "LLM",
+            "LLaMA"
+        ],
+        "cohere_llm_type": "LLM Used: Gemini",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Private & Online LLM : OneLLM",
+        "app_link": "https://play.google.com/store/apps/details?id=com.esotech.onellm",
+        "llm_types_detected_keywords": [
+            "AI-powered",
+            "Claude",
+            "GPT",
+            "GPT-4",
+            "GPT-4o",
+            "LLM",
+            "LLaMA",
+            "language model",
+            "LLM"
+        ],
+        "cohere_llm_type": "Yes, the app description mentions using large language models (LLMs). \n\nThe LLM types specified in the description include:\n- Claude (Claude 3 Haiku)\n- OpenAI's GPT-4 and its variations (GPT-4, GPT-4 Turbo, GPT-4o, GPT-4o Mini)\n- Llama 3.2\n- Gemma 2\n- GLM-4\n- Qwen 2.5\n\nIt also refers to the ability to custom load models from Hugging Face, which suggests a range of other LLMs that users can choose to integrate.\n\nLLM Used: Claude, OpenAI's GPT-4 variants, and various models from Hugging Face.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "PocketPal AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.pocketpalai",
+        "llm_types_detected_keywords": [
+            "AI chatbot",
+            "Gemini",
+            "LLM",
+            "LLaMA"
+        ],
+        "cohere_llm_type": "Yes\nClaude or Gemini (unspecified LLM type within the Private AI Chat app)",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Hub: 50+ models LLM in 1min",
+        "app_link": "https://play.google.com/store/apps/details?id=vn.tripical.ai",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "ChatGPT",
+            "Claude",
+            "Gemini",
+            "LLaMA",
+            "Mistral",
+            "Claude",
+            "LLM",
+            "LLaMA"
+        ],
+        "cohere_llm_type": "The app description mentions multiple instances of using Large Language Models. The types of LLMs used in the AI Hub AI app include:\n- ChatGPT (OpenAI) - o4-mini, chatgpt 4.1, and o3\n- Claude (Anthropic) - Claude 4\n- Gemini (Google Vertex AI) - Gemini Pro v2.5 & Gemma AI\n- Llama (Meta) - Llama 4 Scout & Maverick\n- Qwen (Alibaba Cloud) - Qwen Max and Qwen3 \n\nThe description also refers to several other LLMs which are not directly associated with the app, including: \n- Mistral AI models: Mistral Large, Magistral, and Codestral 2501\n- A21labs AI models: Jamba Large\n- DeepSeek AI models: V3, R1 distill, DeepSeek math 7b\n\nLLM Used: ChatGPT, Claude, Gemini, Llama, Qwen.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Notebook: LLM Notes Summary",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.notes.notebook",
+        "llm_types_detected_keywords": [
+            "AI-powered",
+            "Gemini",
+            "LLM"
+        ],
+        "cohere_llm_type": "Yes, the description does mention using a large language model (LLM). The LLM type referred to in the app description is likely a custom-built model or a generic term for an LLM, as no specific brand or name is mentioned. The features described, such as AI-powered summaries, advanced organization, and audio recording with live transcription, indicate the use of a general LLM for various AI-assisted note-organizing functionalities. \n\nLLM Type: Generic/Custom LLM",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Notion: Notes, Tasks, AI",
+        "app_link": "https://play.google.com/store/apps/details?id=notion.id",
+        "llm_types_detected_keywords": [
+            "LLM"
+        ],
+        "cohere_llm_type": "Yes, the app description mentions using AI features within the Notion app. However, it does not specify which type of large language model (LLM) is used. The functions described, such as autofilling tables, answering questions, and helping with writing and brainstorming, could be indicative of a more general AI assistant or chatbot LLM. The description does not reference any specific named LLMs, such as ChatGPT, GPT-4, Claude, or Gemini. Therefore, the answer is 'None'.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Video Image LLM :OneLLM Pro",
+        "app_link": "https://play.google.com/store/apps/details?id=com.esotech.onellmpro",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "ChatGPT",
+            "Claude",
+            "LLM",
+            "LLaMA",
+            "AI video"
+        ],
+        "cohere_llm_type": "Yes, the app description mentions using Large Language Models (LLMs). \n\nThe description refers to several LLM types, including:\n- o1\n- ChatGPT 4o (ChatGPT, likely based on the name format)\n- Claude\n- DeepSeek\n- Llama\n- Grok\n\nIt also mentions other AI tools like Stable Diffusion and DALL\u00b7E 3, which are not LLMs, but are AI-based services for image creation.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "D.AI Personal Private AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.DAI.DAIapp",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI chatbot",
+            "LLaMA",
+            "LLM",
+            "LLaMA"
+        ],
+        "cohere_llm_type": "The app description mentions using a Retrieval-Augmented Generation (RAG) AI model, which is a type of large language model. Therefore, the answer is RAG.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Private AI",
+        "app_link": "https://play.google.com/store/apps/details?id=us.valkon.privateai",
+        "llm_types_detected_keywords": [
+            "LLaMA",
+            "Mistral",
+            "language model",
+            "ChatGPT",
+            "DeepSeek R1",
+            "GPT",
+            "Gemini",
+            "LLM",
+            "LLaMA"
+        ],
+        "cohere_llm_type": "The app description mentions using multiple LLMs, and provides a list of their names. \nLLM Type: \n\n- Gemma 2: Google's lightweight model\n- Llama 3.2\n- Phi-3.5 mini: Microsoft's lightweight model\n- Orca mini\n- Rocket 3B\n- Mistral: Open-source model\n- NeuralBeagle\n- OpenHermes\n- WizardLM\n- Silicon Maid\n\nThe description also highlights the ability to add custom or third-party models, like the GGUF models, which are not explicitly mentioned in the list of built-in LLMs. Therefore, the app seems to provide access to a variety of LLMs, with the flexibility to add more.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Adobe Firefly: Generative AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.adobe.firefly",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI-powered",
+            "Generative AI",
+            "AI video"
+        ],
+        "cohere_llm_type": "None. The app Adobe Firefly does not mention using a large language model (LLM) in the description provided. It focuses on AI-powered video creation and image editing, using AI tools and algorithms.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Grammarly-AI Writing Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard",
+        "llm_types_detected_keywords": [
+            "AI-powered",
+            "Generative AI",
+            "ChatGPT"
+        ],
+        "cohere_llm_type": "Grammarly uses a Generative AI (GenAI) model. However, the specific type of LLM is not stated in the app description, so it's not possible to provide a precise specification. It could be a custom or in-house LLM developed specifically for Grammarly's purposes.\n\nLLM Type: GenAI (Possible custom LLM)",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "DaVinci - AI Image Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.hubx.imagination",
+        "llm_types_detected_keywords": [
+            "AI art"
+        ],
+        "cohere_llm_type": "None.\n\nWhile the app described uses AI technology to generate art, images, and designs, it does not specifically mention the use of a large language model (LLM). The focus of the description is on the app's ability to process visual data and generate art-based outputs. \n\nThere is a mention of using artificial intelligence (AI) to transform written prompts into art, but this does not explicitly state the use of an LLM, and could refer to other forms of AI technology.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Creati AI Photo Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=org.ai.create.filter",
+        "llm_types_detected_keywords": [
+            "AI photo generator"
+        ],
+        "cohere_llm_type": "None. The app Creati does not mention the use of any large language model in its description. It does, however, mention the use of several AI technologies such as the AI photo generator, AI background changer, and AI photo editor.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Adobe Express: AI Photo, Video",
+        "app_link": "https://play.google.com/store/apps/details?id=com.adobe.spark.post",
+        "llm_types_detected_keywords": [
+            "AI photo generator"
+        ],
+        "cohere_llm_type": "None. The app description for Adobe Express does not mention using a large language model (LLM). It focuses on the app's features related to video editing, image manipulation, content scheduling, and brand consistency tools.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "DreamFace: AI Video Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.dreamapp.dubhe",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI video",
+            "AI video"
+        ],
+        "cohere_llm_type": "None. The app DreamFace does not mention using a large language model in its description. It instead focuses on AI features for photo and video animation, text-to-speech, and enhancing images.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Artificial Intelligence",
+        "app_link": "https://play.google.com/store/apps/details?id=in.softecks.artificialintelligence",
+        "llm_types_detected_keywords": [
+            "AI-based",
+            "Generative AI"
+        ],
+        "cohere_llm_type": "None. The app description does not mention using a large language model.",
+        "cohere_only_mobile_detection": "No. The app description does not explicitly mention that the app is only compatible with mobile devices and not desktop or web platforms. The content and features described could be accessible on multiple platforms.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI ChatBot AI Generator GPTalk",
+        "app_link": "https://play.google.com/store/apps/details?id=com.facebook.videodownload.videodownloaderforfacebook",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "AI photo generator",
+            "ChatGPT",
+            "Claude",
+            "DeepSeek R1",
+            "GPT",
+            "GPT-4",
+            "GPT-4o",
+            "Gemini",
+            "language model",
+            "GPT"
+        ],
+        "cohere_llm_type": "GPT-4, GPT-4o, Gemini",
+        "cohere_only_mobile_detection": "No",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Chat - Your AI Friend",
+        "app_link": "https://play.google.com/store/apps/details?id=com.ai.chat.artificial.intelligence.aichat",
+        "llm_types_detected_keywords": [
+            "AI chatbot",
+            "AI-powered",
+            "language model"
+        ],
+        "cohere_llm_type": "LLM Used: None\n\nThe app description mentions an AI-powered chatbot that seems to be a jack-of-all-trades, offering a wide range of services. However, it does not specifically refer to any large language models, let alone specify the type of LLM used.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Story Generator - Story AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.editpad.aistorygenertor",
+        "llm_types_detected_keywords": [
+            "AI writer",
+            "AI video",
+            "ChatGPT",
+            "Gemini"
+        ],
+        "cohere_llm_type": "None. The description of the AI story generator app does not mention using a large language model explicitly. It refers to AI algorithms and datasets used by the app to generate creative stories. However, the lack of mention could be due to the use of a more general LLM or one that is custom-built for the app's function.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Essay Writer",
+        "app_link": "https://play.google.com/store/apps/details?id=com.editpad.essay_writer_app",
+        "llm_types_detected_keywords": [
+            "AI-Driven",
+            "AI-driven",
+            "GPT",
+            "GPT-4",
+            "LLM",
+            "AI writer"
+        ],
+        "cohere_llm_type": "GPT-4.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "AI Writer & Chat",
+        "app_link": "https://play.google.com/store/apps/details?id=co.simplified.writer",
+        "llm_types_detected_keywords": [
+            "AI writer",
+            "GPT",
+            "GPT-4",
+            "AI writer",
+            "GPT"
+        ],
+        "cohere_llm_type": "GPT-4",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Story Generator - Novel AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.paragraphrewriter.ai_story_generator",
+        "llm_types_detected_keywords": [
+            "AI-powered"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Paraphrase Tool - Ai Writer",
+        "app_link": "https://play.google.com/store/apps/details?id=com.allmath.paraphrase",
+        "llm_types_detected_keywords": [
+            "AI writer"
+        ],
+        "cohere_llm_type": "None",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Essay Writer App: Essayness",
+        "app_link": "https://play.google.com/store/apps/details?id=com.essayness.essay_writer",
+        "llm_types_detected_keywords": [
+            "AI writer",
+            "GPT",
+            "GPT-4",
+            "Gemini"
+        ],
+        "cohere_llm_type": "Gemini and GPT-4.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "AI Essay Writer - Essay AI",
+        "app_link": "https://play.google.com/store/apps/details?id=com.app.essaywriter",
+        "llm_types_detected_keywords": [
+            "AI writer",
+            "ChatGPT",
+            "LLM"
+        ],
+        "cohere_llm_type": "ChatGPT and GPT4.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "AI Email Writer - Reply Writer",
+        "app_link": "https://play.google.com/store/apps/details?id=com.aditpad.emailwriter",
+        "llm_types_detected_keywords": [],
+        "cohere_llm_type": "None. The description of the AI Email Writer App does not mention using a large language model explicitly. It only refers to the use of AI Technology and email generation, without specifying the type of AI involved.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Google Assistant",
+        "app_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "Gemini",
+            "AI assistant",
+            "Gemini"
+        ],
+        "cohere_llm_type": "Gemini.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Voice Access",
+        "app_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess",
+        "llm_types_detected_keywords": [
+            "Gemini"
+        ],
+        "cohere_llm_type": "None",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Google Gemini on Wear OS",
+        "app_link": "https://play.google.com/store/apps/details?id=com.google.android.wearable.assistant",
+        "llm_types_detected_keywords": [
+            "AI assistant",
+            "Gemini",
+            "Gemini"
+        ],
+        "cohere_llm_type": "Gemini appears to be the name of the LLM used in this instance.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Google Assistant Go",
+        "app_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.assistant",
+        "llm_types_detected_keywords": [
+            "Gemini"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "CreArt - AI Image Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=ai.aiart.aiartgenerator.creart",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI photo generator",
+            "AI picture generator"
+        ],
+        "cohere_llm_type": "None. \n\nWhile the app, CreArt, uses various AI tools and generators, no specific large language models are mentioned in the description provided. The focus seems to be primarily on image generation and art.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "WOMBO Dream - AI Art Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.womboai.wombodream",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI photo generator",
+            "AI art",
+            "Generative AI"
+        ],
+        "cohere_llm_type": "The app description mentions using an AI model, referring to it as 'WOMBO Dream - AI Art Generator', 'WOMBO Dream - AI Photo Generator', and 'Wombo Dream'. The description also specifically names Midjourney, Dall-e, and Stable Diffusion as alternatives. These three named apps all use LLMs, specifically of the Generative AI kind, and the described app appears to function in a similar manner, therefore it is likely that this app also uses a Generative LLM. \n\nThe exact type of LLM is not specified in the app description, but it seems to be a proprietary model, hence I cannot provide a specific name for it. The description does, however, imply that it is similar to the alternatives Midjourney, Dall-e, and Stable Diffusion.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Photoleap: AI Photo Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.lightricks.photoleap",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI photo generator"
+        ],
+        "cohere_llm_type": "None. The app description details an AI-assisted photo editing app, but does not specify the type of AI technology used. It's likely that the app uses a general AI model for its various photo editing features.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "GenZArt: Fast AI Art Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.fourksoft.genzart",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI-Driven",
+            "AI-driven",
+            "AI-powered",
+            "AI art",
+            "GPT"
+        ],
+        "cohere_llm_type": "None. The app GenZArt does not mention using a large language model (LLM) in its description. It focuses on using AI for artistic purposes, primarily transforming words into images, music, and stories. The AI mentioned seems to be focused on image processing and generation, with no reference to a specific LLM.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Photo Generator - Fotorama",
+        "app_link": "https://play.google.com/store/apps/details?id=co.appnation.aiphotostudio",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI-enhanced",
+            "AI-powered"
+        ],
+        "cohere_llm_type": "None. The app description for Fotorama does not mention using a large language model (LLM). It focuses on the app's AI capabilities for enhancing photos and videos, but does not specify the type of AI technology being used.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Spellai - AI Art Maker",
+        "app_link": "https://play.google.com/store/apps/details?id=com.ai.polyverse.spell.pro",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI-powered",
+            "AI art"
+        ],
+        "cohere_llm_type": "Chatbot\n\nNone of the LLMs explicitly named in the app description, but there is mention of a 'chatbot' feature which appears to enhance the user experience with an element of conversation. This may be a simple rule-based chatbot or one powered by a small LLM.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "DigiFace\uff1aAI Avatar Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.music.video.maker.editor",
+        "llm_types_detected_keywords": [
+            "AI avatars"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "Reface: Face Swap AI Photo App",
+        "app_link": "https://play.google.com/store/apps/details?id=video.reface.app",
+        "llm_types_detected_keywords": [
+            "AI avatars",
+            "AI photo generator",
+            "AI video",
+            "AI-powered"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Gleem: AI Headshot Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.gleem.gleemai",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI picture generator",
+            "AI art"
+        ],
+        "cohere_llm_type": "None. The app Gleem does not mention using a large language model in its description. It does however mention having an AI avatar generator and portrait app, which uses AI to create cartoons from uploaded photos.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "niji\u30fbjourney - AI Anime Art",
+        "app_link": "https://play.google.com/store/apps/details?id=com.spellbrush.nijijourney",
+        "llm_types_detected_keywords": [
+            "AI art"
+        ],
+        "cohere_llm_type": "Midjourney.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "HYRA AI - AI on Edge Computing",
+        "app_link": "https://play.google.com/store/apps/details?id=com.hyratek.salala",
+        "llm_types_detected_keywords": [
+            "AI-powered"
+        ],
+        "cohere_llm_type": "None.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Video Maker: AimeGen",
+        "app_link": "https://play.google.com/store/apps/details?id=aiart.generator.aigc",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI-powered",
+            "AI video"
+        ],
+        "cohere_llm_type": "None. The app AimeGen appears to use various forms of AI technology, including machine learning and facial animation, but the description does not explicitly mention a large language model. The focus seems to be on video generation and facial animation using AI, rather than leveraging an LLM for natural language processing tasks.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Filmora: AI Video Editor&Maker",
+        "app_link": "https://play.google.com/store/apps/details?id=com.wondershare.filmorago",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI-based",
+            "AI video",
+            "GPT"
+        ],
+        "cohere_llm_type": "None. The description of the app Filmora AI Video Editor does not mention any specific Large Language Models (LLMs). It only refers to general AI features.",
+        "cohere_only_mobile_detection": "No.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "D-ID: AI Video Generator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.deidentification.studio",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI video"
+        ],
+        "cohere_llm_type": "None. \n\nThe app description details an AI video generator mobile application that allows users to create avatars and digital people from images, but it does not specify the use of a large language model, or indeed any specific type of AI technology. While the app's functions seem innovative and advanced, the description focuses on the app's user experience and its capabilities in generating realistic videos, without mentioning the underlying AI technology in detail.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Video Enhancer - Utool",
+        "app_link": "https://play.google.com/store/apps/details?id=videoeditor.videomaker.aieffect",
+        "llm_types_detected_keywords": [
+            "AI art",
+            "AI video",
+            "AI video"
+        ],
+        "cohere_llm_type": "None. The described app, Utool - AI Video Enhancer & Editor, does not mention using a large language model (LLM). It focuses on AI-powered video and photo editing tools and enhancements.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": false,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "FilmoraHD - AI Video Creator",
+        "app_link": "https://play.google.com/store/apps/details?id=com.wondershare.filmora",
+        "llm_types_detected_keywords": [
+            "AI video",
+            "AI-based"
+        ],
+        "cohere_llm_type": "None. The described app, Filmora AI Video Editor, does not mention the use of a large language model. It does, however, extensively list various AI features.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    },
+    {
+        "app_name": "Vmake: AI Talking Video Editor",
+        "app_link": "https://play.google.com/store/apps/details?id=com.starii.kapkap",
+        "llm_types_detected_keywords": [
+            "AI-powered"
+        ],
+        "cohere_llm_type": "None. The description of the app 'Vmake' does not mention using a large language model. It focuses on the app's video editing and AI-powered features for creating studio-quality talking videos.",
+        "cohere_only_mobile_detection": "Yes.",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": false
+    },
+    {
+        "app_name": "AI Video Editor: ShotCut AI",
+        "app_link": "https://play.google.com/store/apps/details?id=video.editor.videomaker.effects.fx",
+        "llm_types_detected_keywords": [
+            "AI video"
+        ],
+        "cohere_llm_type": "Yes, this app description mentions using AI text generation technology, but does not specify the type of Large Language Model (LLM) used. The focus of the app's functionality seems more geared towards comprehensive video editing tools and AI assistance for content creation, rather than language modeling. \n\nIt's likely that the company uses a custom LLM or one of the more generalist LLMs like Cohere's Command or OpenAI's ChatGPT, rather than the more specialized LLMs like GPT-4, Claude, or Gemini.",
+        "cohere_only_mobile_detection": "Yes",
+        "is_mobile_ai_by_keywords": true,
+        "is_mobile_ai_by_cohere": true
+    }
+]

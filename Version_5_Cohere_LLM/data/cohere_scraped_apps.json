@@ -1,0 +1,21 @@
+[
+  {
+    "app_id": "net.jpmchase.mclandroid.llmsuite",
+    "description": "LLM Suite brings the power of Large Language Model (LLM) technology to the firm by offering scalable solutions for integrating LLM capabilities.",
+    "llm_indicator_in_description": [
+      "LLM",
+      "language model"
+    ],
+    "data_safety": {
+      "No data shared with third parties": {},
+      "No data collected": {}
+    },
+    "cohere_llm_type": "AI-integrated (semantic)",
+    "cohere_only_mobile": "No",
+    "llm_indicator_in_review_summary": [
+      "LLM"
+    ],
+    "title": "LLM Suite",
+    "cohere_score": 0.5534051039376604
+  }
+]

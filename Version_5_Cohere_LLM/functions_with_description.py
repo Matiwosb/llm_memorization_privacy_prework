@@ -98,14 +98,14 @@ def collect_urls():
                     pages.append(url)  # create list of URLs
 
     # saves the app URLs in a file, will overwrite previous information in file.
-    with open("data/app_urls_v4.txt", 'w') as url_page:
+    with open("data/app_urls_v5.txt", 'w') as url_page:
         for link in pages:
             url_page.write(f"{link}\n")
 
     print(f"Number of URLs collected:f{len(pages)}")
 
     # use URLs in pages list to find the data safety page url for that app, write to file.
-    with open("data/gs_urls_v4.txt", 'w') as ds_page:
+    with open("data/gs_urls_v5.txt", 'w') as ds_page:
         for link in pages:
             response2 = requests.get(link)
 
@@ -283,4 +283,3 @@ def detect_mobile_only_with_cohere(description, cohere_client):
     except Exception as e:
         print(f"[Cohere Error] {e}")
         return "Cohere failed"
-    
